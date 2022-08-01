@@ -6,7 +6,7 @@ Notes
 This repository includes the data and python scripts to visualize results.
 
 Numerical simulation were set in the MOOSE environment - for more visit https://mooseframework.inl.gov/ and https://github.com/josebastiase/RHEA
-The numerical simulation are contained in the ".i" files. Since numerous simulations where perfomr for this study, for each figure where simulation were perfomr, a python script was used to generate the numerical simulation files.
+The numerical simulation are contained in the ".i" files. Since numerous simulations where performed for this study, for each figure, a python script was used to generate the numerical simulation files based on a "base file". More about this workflow in the notes of the Python Notebooks.
 
 Learn more
 ----------
